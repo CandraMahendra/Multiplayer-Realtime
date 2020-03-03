@@ -1,0 +1,6 @@
+Judul: That's my Crown!
+
+Konsep: Multiplayer online (realtime) yang dimainkan oleh 2 orang untuk saling merebut mahkota dengan cara ambil kendali mahkota dalam total waktu yang ditentukan maka pemain tersebut akan menang, apabila tiap pemain saling bertabrakan maka kendali mahkota akan berganti ke pemain satu nya dan akan mulai mengkalkulasi waktu kendali mahkota.
+
+Game Loop:
+Menu -> Player joins or creates a game -> Lobby -> Host starts the game -> Playing the game -> Player holds the hat for the winning time -> Player wins the game -> Player go back to the menu -> Menu
